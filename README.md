@@ -48,7 +48,7 @@ This project demonstrates object-oriented programming principles and database in
 
 ```plaintext
 AirlineManagementSystem/
-├── Database file/                  # Database files - MySQL
+├── Database file/                  # Database schema and sample data
 │   └── ams.sql
 │   └── javaProjectDatabase.sql
 |
@@ -64,5 +64,4 @@ AirlineManagementSystem/
 │       └── managebooking.java
 │       └── ticketcancellation.java 
 ├── README.md             # Project documentation
-├── AirlineManagement.sql # Database schema and sample data
 └── .gitignore            # Files to exclude from Git tracking
